@@ -1,0 +1,110 @@
+
+/*.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;}*/
+.collapse{
+    justify-content: center;
+}
+.nav-link{
+    color:  black;
+    font-size: 18px;
+}
+#logo{
+    height: 35px;
+    width: 100spx;
+}
+#footer{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+}
+.list-group-item{
+    background-color: black;
+    color: aliceblue;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+#container{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#logoig{
+    height: 20px;
+    width: 20px;
+}
+#colgrid{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px 
+}
+#logocolor{
+    color: green;
+}
+#ainfo{
+    color: gray;
+
+}
+a:link, a:visited, a:active{
+    text-decoration: none;
+}
+#textoinfo{
+    color: black;
+    font-size: 16px;
+}
+#anavbar{
+    color: black;
+}
+#aredes{
+    color: white;
+}
+#subcripcion{
+    width: 600px;
+}
+#botonsub{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+body{
+    background-color: gainsboro;
+}
+#nav{
+    background-color: white;
+}
+
+
+
+#carouselExample {
+    width: 100%; /* Ancho deseado del contenedor */
+    height: 600px; /* Altura deseada del contenedor */
+    overflow: hidden; /* Para recortar el contenido que sobrepasa el contenedor */
+    position: relative; /* Para alinear verticalmente la imagen recortada */
+  }
+  
+  #divimg {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    transform: translateY(-50%); /* Alinear verticalmente la imagen recortada */
+    overflow: hidden; /* Para recortar las partes que sobresalen por arriba y por abajo */
+  }
+  
+  #imgcarrusel {
+    width: 100%; /* Ajustar el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Ajustar la altura de la imagen automáticamente para mantener la proporción */
+  }
+
+
+
+
+  
+  
